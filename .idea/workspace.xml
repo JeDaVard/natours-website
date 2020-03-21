@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a84c5dd-dcd8-41de-b969-b6c0a9da8989" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZO8jQmTdEXbTYMFr0t8vjhaVaG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Sass/SCSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/styles/base" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a84c5dd-dcd8-41de-b969-b6c0a9da8989" name="Default Changelist" comment="" />
+      <created>1584698914101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584698914101</updated>
+      <workItem from="1584698915629" duration="13821000" />
+      <workItem from="1584794781407" duration="639000" />
+      <workItem from="1584795644272" duration="11513000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#File_Watchers" timestamp="1584788472387">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#File_Watchers/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1584788472387" />
+    <state x="320" y="115" key="#Notifications" timestamp="1584787845958">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Notifications/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1584787845958" />
+    <state x="399" y="295" width="642" height="325" key="#SCSS_Lint" timestamp="1584795605978">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="399" y="295" width="642" height="325" key="#SCSS_Lint/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1584795605978" />
+    <state x="294" y="229" key="EditFileWatcherDialog" timestamp="1584787750942">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="294" y="229" key="EditFileWatcherDialog/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1584787750942" />
+    <state x="0" y="23" key="FileDocumentManager.FileCacheConflict" timestamp="1584813923501">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="0" y="23" key="FileDocumentManager.FileCacheConflict/-1440.23.1440.877/0.23.1440.877@0.23.1440.877" timestamp="1584813923501" />
+    <state x="227" y="143" key="SettingsEditor" timestamp="1584796148933">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1584795127478" />
+    <state x="227" y="143" key="SettingsEditor/-1440.23.1440.877/0.0.1440.900@0.0.1440.900" timestamp="1584796148933" />
+    <state x="368" y="191" width="703" height="518" key="find.popup" timestamp="1584813884566">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="368" y="191" width="703" height="518" key="find.popup/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1584813884566" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1584808496458">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1584808496458" />
+  </component>
+</project>
