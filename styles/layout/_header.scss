@@ -9,6 +9,7 @@
   background-position: top;
   height: 95vh;
   position: relative;
+  -webkit-clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100% );
   clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100% );
 
   &__logo-box {
@@ -23,9 +24,8 @@
 
   &__heading-box {
     position: absolute;
+    @include box-center;
     top: 40%;
-    left: 50%;
-    transform: translate(-50%, -50%);
     text-align: center;
   }
 }
