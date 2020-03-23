@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a84c5dd-dcd8-41de-b969-b6c0a9da8989" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/styles/components/_feature-box.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/components/_tours.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/components/_bg-video.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/components/_form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/components/_story.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/layout/_footer.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/abstracts/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/abstracts/_mixins.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/abstracts/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/base/_utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/base/_utilities.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/components/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/components/_button.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/layout/_header.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/pages/_home.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
@@ -69,7 +69,7 @@
       <workItem from="1584795644272" duration="16236000" />
       <workItem from="1584820103598" duration="4336000" />
       <workItem from="1584870841171" duration="583000" />
-      <workItem from="1584872265770" duration="9067000" />
+      <workItem from="1584872265770" duration="24435000" />
     </task>
     <servers />
   </component>
