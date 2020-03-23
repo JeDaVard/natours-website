@@ -337,6 +337,7 @@ body {
     width: 15rem;
     height: 15rem;
     float: left;
+    overflow: hidden;
     -webkit-shape-outside: circle(50% at 50% 50%);
     shape-outside: circle(50% at 50% 50%);
     -webkit-clip-path: circle(50% at 50% 50%);
@@ -346,7 +347,6 @@ body {
   .story__image {
     height: 100%;
     transform: scale(1.4);
-    backface-visibility: hidden;
     transition: all .5s; }
   .story__text {
     transform: skewX(12deg); }
@@ -360,8 +360,7 @@ body {
     font-size: 1.7rem;
     text-align: center;
     opacity: 0;
-    transition: all .5s;
-    backface-visibility: hidden; }
+    transition: all .5s; }
   .story:hover .story__caption {
     opacity: 1;
     transform: translate(-50%, -50%); }
