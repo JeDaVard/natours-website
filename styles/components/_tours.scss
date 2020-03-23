@@ -124,7 +124,7 @@
     position: absolute;
     @include box-center;
     width: 90%;
-    text-align-last: center;
+    text-align: center;
 
     &--a {
       width: 100%;
@@ -133,7 +133,7 @@
 
   &__price {
     &-box {
-      text-align-last: center;
+      text-align: center;
       color: $color-white;
       margin-bottom: 8rem;
     }
