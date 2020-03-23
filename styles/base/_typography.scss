@@ -3,9 +3,6 @@ body {
   font-weight: 400;
   line-height: 1.7;
   color: $color-grey-dark;
-  padding: 3rem;
-
-  box-sizing: border-box;
 }
 
 .heading-primary {
@@ -14,12 +11,18 @@ body {
   margin-bottom: 5rem;
   backface-visibility: hidden;
 
+
   &--main {
     font-size: 6rem;
     letter-spacing: 3.5rem;
     font-weight: 400;
     display: block;
     @extend .moveInLeft;
+
+    @include respond(phone) {
+      font-size: 5rem;
+      letter-spacing: 1rem;
+    }
   }
 
   &--sub {
@@ -28,6 +31,10 @@ body {
     font-weight: 700;
     display: block;
     @extend .moveInRight;
+
+    @include respond(phone) {
+      letter-spacing: .5rem;
+    }
   }
 }
 
@@ -40,6 +47,10 @@ body {
   -webkit-background-clip: text;
   color: transparent;
   transition: all .1s;
+
+  @include respond(phone) {
+    font-size: 2.5rem;
+  }
 
   &:hover {
     transform: skewY(1deg) skewX(8deg) scale(1.05);
