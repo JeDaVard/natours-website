@@ -3,21 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="3a84c5dd-dcd8-41de-b969-b6c0a9da8989" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/abstracts/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/abstracts/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/abstracts/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/base/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/base/_base.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/base/_typography.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/base/_utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/base/_utilities.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/components/_composition.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/components/_composition.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/components/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/components/_form.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/components/_story.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/components/_story.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/components/_tours.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/components/_tours.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/layout/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/layout/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/layout/_grid.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/layout/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/layout/_navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/layout/_navigation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/pages/_home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/layout/_popup.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/layout/_popup.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +67,7 @@
       <workItem from="1584795644272" duration="16236000" />
       <workItem from="1584820103598" duration="4336000" />
       <workItem from="1584870841171" duration="583000" />
-      <workItem from="1584872265770" duration="46477000" />
+      <workItem from="1584872265770" duration="50069000" />
     </task>
     <servers />
   </component>
@@ -107,10 +100,10 @@
     </state>
     <state x="221" y="89" key="SettingsEditor/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1584872306906" />
     <state x="227" y="143" key="SettingsEditor/-1440.23.1440.877/0.0.1440.900@0.0.1440.900" timestamp="1584872348946" />
-    <state x="368" y="191" width="703" height="518" key="find.popup" timestamp="1584879657502">
+    <state x="368" y="191" width="703" height="518" key="find.popup" timestamp="1584989617898">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="368" y="191" width="703" height="518" key="find.popup/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1584879657502" />
+    <state x="368" y="191" width="703" height="518" key="find.popup/-1440.0.1440.900/0.0.1440.900@0.0.1440.900" timestamp="1584989617898" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1584808496458">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

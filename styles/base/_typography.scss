@@ -9,6 +9,7 @@ body {
   color: white;
   text-transform: uppercase;
   margin-bottom: 5rem;
+  -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
 
 
